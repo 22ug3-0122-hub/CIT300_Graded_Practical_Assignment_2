@@ -1,0 +1,1 @@
+public class PerformanceRecord { public final String operation,algorithm; public final long steps,timeNanos; public PerformanceRecord(String o,String a,long s,long t){operation=o;algorithm=a;steps=s;timeNanos=t;} }
